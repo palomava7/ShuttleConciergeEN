@@ -1,0 +1,204 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+.ui-datepicker { z-index: 1000 !important; font-size: 0.9em; }
+.ui-datepicker-month { text-transform: capitalize; }
+
+body { font-family: 'Open Sans', sans-serif; background: rgb(234, 244, 243); min-width: 1000px;}
+input[type=button] { background: #8C104F; border: none; color: #ffffff; font-weight: bold; cursor: pointer;}
+input[type=button]:hover { background: #A5145D; }
+label { color: #666; display: inline-block;}
+select { border: 1px solid #ccc; text-indent: 1px; }
+input[type=text] { text-indent: 5px; border:  1px solid #ccc; }
+textarea { text-indent: 5px; border:  1px solid #ccc; }
+
+.header { background: rgb(25, 23, 26); height: 70px; box-shadow: #000 0px 0px 20px; }
+.header .wrapper { width: 980px; margin: auto; }
+.header .logo { float: left; height: 60px; margin: 5px 0px; }
+.header .social { float: right; margin-top: 6px; }
+.header .social a:hover { background-position: left bottom; }
+.header .phone { float: right; color: #ffffff; margin-top: 5px; margin-right: 48px; background: url(../img/phone.png) no-repeat left top; background-size: 33px; text-indent: 40px; position: relative;cursor: pointer; padding-bottom: 2px;}
+.header .phone .email { font-size: 0.92em; margin-top: 5px; position: relative; display: block; color: #fff; text-decoration: none;}
+.header .phone .email:before { content: " "; position: absolute; width: 20px; height: 20px; background: url(../img/email.png) no-repeat; background-size: 20px; top: 0px; left: 7px;}
+.header .phone .email:hover { text-decoration: underline; }
+.header .phone:after { content: " "; display: inline-block; position: absolute; width: 0; height: 0; border-left: 7px solid transparent; border-right: 7px solid transparent; border-top: 7px solid #fff; top: 12px; right: -20px;}
+.header .phone>div { font-size: 1.8em; }
+.phoneList { position: absolute; top: 100%; right: 0px; font-size: 1.1em; z-index: 10; background: #19171A; padding: 10px 10px; text-align: left; border-radius: 5px; /* width: 100%; */ text-indent: 0; text-align: center; display: none; margin-top: 0;}
+.header .phone .phoneList ul { margin-top: 10px; line-height: 25px;}
+.header .facebook { background: url(../img/facebook.jpg); width: 27px; height: 27px; display: inline-block; }
+.header .twitter { background: url(../img/twitter.jpg); width: 27px; height: 27px; display: inline-block; }
+.header .pinterest { background: url(../img/pinterest.jpg); width: 27px; height: 27px; display: inline-block; }
+.content { width: 960px; margin: 0px auto 20px auto; box-shadow: #000 0px 0px 20px; background: #fff; }
+.content .menu { background: #8C104F; height: 30px; width: 960px; margin: auto; }
+.content .menu a { display: inline-block; text-decoration: none; color: #bbb; padding: 5px 15px; height: 20px; font-size: 0.9em; line-height: 20px; }
+.content .menu a:hover, .menu a.active { color: #fff; }
+.content .wrapper { padding: 20px; }
+.content .resbox { display: inline-block; width: 368px; height: 170px; border-radius: 5px; margin-right: 20px; vertical-align: top; padding: 15px; position: relative; border: 1px solid #8C104F; }
+.content #resboxForm { position: relative; height: 172px; }
+.content .resbox label { width: 150px; margin-bottom: 10px; margin-right: 5px; }
+.content .resbox select { width: 205px; }
+.content .resbox select#pax { width: 50px; }
+.content .resbox input[type=text] { width: 203px; }
+.content .resbox input[type=text]#location { background: url(../img/search-icon.png) no-repeat right center; background-size: 17px; }
+.content .resbox input.calendar { width: 100px; margin-right: 5px; }
+.content .resbox .calendar-icon { display: inline-block; width: 18px; height: 20px; vertical-align: middle; background: url(../img/calendar-icon.png) no-repeat; background-size: 19px; }
+.content .resbox .submit-container { position: absolute;  bottom: 0; left: 0; }
+.content .resbox .paypal { width: 90px; vertical-align: middle; }
+.content .resbox .cash { width: 48px; vertical-align: middle; margin-right: 13px; color: red; }
+.content .resbox input[type=button] { width: 206px; height: 40px; }
+.content .banner { display: inline-block;  width: 495px;  height: 200px; position: relative; vertical-align: top; border-radius: 4px; overflow: hidden; border: 1px solid #bbb; box-sizing: border-box;}
+.content .banner img { position: absolute; top: 0px; left: 0px; width: 495px; height: 200px; }
+.content h2 { text-align: center; font-weight: bold; font-size: 1.2em; margin: 20px; color: #8C104F; }
+.content .slider { position: relative; }
+.content .slide { position: relative; display: inline-block; margin: 7px; overflow: hidden;}
+.content .slide img { border-radius: 4px; border: 1px solid #bbb; box-sizing: border-box;}
+.content .slide  a { display: inline-block; text-decoration: none; color: #666; }
+.content .slide h3 { text-align: center; font-weight: bold; margin-top: 5px; }
+.content .miniSlide { position: relative; overflow: hidden; width: 210px; height: 150px;}
+.content .miniSlide img { position: absolute; top: 0; left: 0; width: 210px; height: 150px; }
+.content .divider { text-align: center; margin: 10px; }
+.content .divider .line { width: 150px; display: inline-block; border: 1px solid #8C104F; margin: 0px 5px; vertical-align: middle; }
+.content .divider .line+.line { border-color: rgb(21, 159, 147); }
+.content .divider .line+.line+.line { border-color: #000; }
+.content .footer { text-align: center; padding-bottom: 10px; }
+.content .footer .logos { margin-top: 10px; }
+.content .footer .logos img { vertical-align: middle; margin: 0px 30px; }
+.content .footer .logos img.cancun { width: 140px; }
+.content .footer .logos img.riviera { width: 50px; }
+.content .footer .logos img.mexico { width: 120px; }
+.content .footer .legals { background: #8C104F; color: #bbb; padding: 5px; margin-top: 20px;}
+.content .footer .legals a { text-decoration: none; color: #bbb; }
+.content .footer .legals a:hover { color: #fff; }
+.content .footer .copy {font-size:13px; font-weight: normal; text-align:center; background-color: #8C104F; color: white; padding-top: 5px; padding-bottom: 5px;}
+
+.option { display: block; border: 1px solid #8C104F; height: auto; border-radius: 5px; white-space: nowrap; margin-left: 53px !important;}
+.option.active, .option:hover { background: #8C104F; }
+
+.option>.service { display: block; vertical-align: top; width: 230px; height: 150px; text-align: center; line-height: 2em; }
+.option>.service img { width: 180px; margin-top: 25px; }
+
+.option>.details { display: inline-block; height: 130px; width: 310px; white-space: normal;}
+.option>.details h4 { font-weight: bold; color: #8C104F; font-size: 1em; line-height: 2em; }
+.option.active>.details h4, .option:hover>.details h4 { color: white; }
+.option>.details ul { width: 100%; }
+.option>.details li { display: inline-block; /* width: 100px; */ padding-left: 20px; font-size: 0.9em; margin-right: 20px; line-height: 1.8em; color: #666; position: relative;}
+.option>.details li:before {content:"\2713";position: absolute;left: 0px;}
+.option.active>.details li, .option:hover>.details li { color: white; }
+.option.active>.details a, .option:hover>.details a { color: white; }
+
+.option>.quote { display: block; width: auto; text-align: center; vertical-align: top; /*margin-top: 20px; margin-right: 15px;*/}
+.option>.quote .type { font-weight: bold; font-size: 0.8em; color: #666; }
+.option.active>.quote .type, .option:hover>.quote .type { color: white; }
+.option>.quote .pax { font-weight: bold; color: #666; }
+.option.active>.quote .pax, .option:hover>.quote .pax { color: white; }
+.option>.quote .price { font-weight: bold; font-size: 3em; margin: 5px 0px; color: #8C104F; }
+.option.active>.quote .price, .option:hover>.quote .price { color: white; }
+.option>.quote .currency { font-size: 0.5em; font-weight: bold; }
+
+.option>.quote>.details {margin-top: 10px; text-align: center;}
+.option>.quote>.details  a {font-weight: bold;}
+.option.active>.quote>.details a, .option:hover>.quote>.details a { color: white;}
+
+.option>.radiobutton { display: block; text-align: center; width: auto; vertical-align: top; margin-top: 20px; /*margin-right: 9px*/; white-space: normal;}
+.option>.radiobutton input { display: inline-block; margin-bottom: 10px;}
+.option>.radiobutton div{ display: inline-block; color: rgb(140, 16, 79); font-weight: bold;}
+.option.active>.radiobutton div, .option:hover>.radiobutton div { color: white; }
+
+.book fieldset { border: 1px solid #8C104F; margin: 20px 0px; padding: 20px 0px; border-radius: 5px;}
+.book fieldset legend { padding: 0px 10px; font-weight: bold; color: #8C104F; margin-left: 20px;}
+.book fieldset>div { display: inline-block; vertical-align: top; margin: 10px 0px 0px 35px;}
+.book fieldset textarea { vertical-align: top; resize: none; }
+.book fieldset label { width: 150px; }
+.book fieldset input[type=text] { width: 248px; }
+.book fieldset select { width: 250px; }
+.book fieldset textarea { width: 244px; height: 60px; }
+.book fieldset .radioLabel { width: initial; margin-right: 20px; }
+.book .flightFieldset label { width: initial; margin-right: 10px; }
+.book .flightFieldset input[type=text] { width: 160px; }
+.book .flightFieldset select { width: initial; }
+.book a { color: #8C104F; text-decoration: none; margin-right: 20px; }
+.book a:hover { text-decoration: underline; }
+.book input[type=button] { width: 200px; padding: 10px; }
+.book #zip_code { width: 100px; }
+
+.contact fieldset { border: 1px solid #8C104F; margin: 20px 0px; padding: 20px 0px; border-radius: 5px;}
+.contact fieldset legend { padding: 0px 10px; font-weight: bold; color: #8C104F; margin-left: 20px;}
+.contact fieldset>div { vertical-align: top; margin: 10px 20px;}
+.contact fieldset textarea { vertical-align: top; resize: none; }
+.contact fieldset label { width: 150px; }
+.contact fieldset input[type=text] { width: 288px; }
+.contact fieldset select { width: 250px; }
+.contact fieldset textarea { width: 284px; height: 60px; }
+.contact fieldset .radioLabel { width: initial; margin-right: 20px; }
+.contact .flightFieldset label { width: initial; margin-right: 10px; }
+.contact .flightFieldset input[type=text] { width: 160px; }
+.contact .flightFieldset select { width: initial; }
+.contact a { color: #8C104F; text-decoration: none; margin-right: 20px; }
+.contact a:hover { text-decoration: underline; }
+.contact input[type=button] { width: 200px; padding: 10px; float: right;}
+.contact #zip_code { width: 100px; }
+
+.formErrors { display: none; border-color: red !important; padding: 20px !important;}
+.formErrors legend { color: red !important; }
+.formErrors label { color: red; width: initial !important; margin-right: 30px; margin-bottom: 10px;}
+
+.confirm h2 { text-align: left; }
+.confirm .book fieldset>div { display: block; }
+.confirm .label { color: #8C104F; margin-right: 10px; font-weight: bold; display: inline-block; width: 200px;}
+.confirm .value { color: #333; text-transform: uppercase;}
+.confirm .book fieldset { display: inline-block; padding-right: 20px;}
+.confirm .amount { font-size: 30px; font-weight: bold; display: inline-block; background: #8C104F; padding: 10px; border-radius: 4px; color: #fff;}
+.confirm .currency { font-size: 15px; font-weight: bold; vertical-align: super;}
+
+.texto p { text-align: justify; line-height: 1.2em; margin: 10px;}
+.texto img { margin: 20px ; width: 400px; height: 250px; float:right; }
+img.servicio { margin: 0px 20px 0px 20px ; width: 450px; height: 250px; float:right; border-radius: 8px; border-color: #bbb; border-width: 1px; border-style: solid;}
+.texto h3 { text-align: left; font-weight: bold; font-size: 1.2em; margin: 20px; color: #8C104F; }
+.miniImage { position: relative; overflow: hidden; width: 210px; height: 150px;}
+.miniImage img { position: absolute; width: 205px; height: 145px; border-radius: 8px; border-color: #D8D8D8; border-width: medium; border-style: solid; }
+
+.contact { display: inline-block; width: 490px; position: relative; top: -8px;}
+.contact fieldset { margin-top: 0; }
+.contact p { padding: 0 20px; font-size: 15px; color: #444; line-height: 17px; margin-bottom: 7px;}
+
+.book fieldset>div.hidden_includes, .hidden_includes { display: none; width: 750px; height: auto;}
+.hidden_includes li { color: #8C104F; display: block; /* width: 100px; */ padding-left: 20px; font-size: 0.9em; margin-right: 20px; line-height: 2em; 	 }
+.hidden_includes li:before {content:"\2713";position: absolute;left: 0px;}
+
+.loading-icon { width: 28px; height: 28px; background: url(../img/spinner.gif) no-repeat; display: none; background-size: 28px; vertical-align: middle; margin-left: 10px;}
+
+form .error:not(label) { border: 1px solid red; }
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+    body { min-width: initial; width: 100%; overflow-x: hidden; }
+    .header { height: initial; text-align: center; }
+    .header .wrapper { width: 100%; }
+    .header .logo { display: block; float:initial; height: 40px; margin-left: auto; margin-right: auto; }
+    .header .social { display: inline-block; float: initial; }
+    .header .phone { display: inline-block; float: initial; font-size: 11px; margin-right: 20px; margin-left: 10px; margin-bottom: 10px; background-size: 23px; background-position-x: 33px;}
+    .content { width: 100%; }
+    .content .menu { width: 100%; height: initial; text-align: center; }
+    .content .wrapper { padding: 10px; }
+    .content .resbox { display: block; width: initial; margin-right: 0px; height: initial; margin-bottom: 10px; }
+    .content #resboxForm { height: initial; }
+    .content .resbox select { width: 100%; margin-bottom: 10px; }
+    .content .resbox input[type=text] { width: 100%; margin-bottom: 10px; }
+    .content .resbox input.calendar { width: 100px; display: block; margin-bottom: 0px;}
+    .content .resbox .calendar-icon { position: relative; top: -20px; left: 105px;}
+    .content .resbox .submit-container { position: initial; text-align: center;}
+    .content .resbox input[type=button] { margin-top: 10px; }
+    .content .resbox .calendarBlock { display: inline-block; }
+    .content .resbox .calendarBlock+.calendarBlock { margin-left: 30px }
+    .content .resbox label { width:initial; }
+    .content .resbox input.calendar { width: 100px; }
+    .content .banner { width: 300px !important; height: 121px!important; }
+    .content .banner img { width: 300px!important; height: 121px!important; }
+    .content .slide { margin-right: 0px; margin-left: 0px; }
+    .content .miniSlide { width: 300px !important; height: 214px !important; }
+    .content .miniSlide img { width: 300px !important; height: 214px !important; }
+    .content .divider .line { width: 80px; }
+    .content .footer .logos img { margin: 0 5px;s }
+    .content .footer .logos img.cancun { width: 90px;}
+    .content .footer .logos img.riviera { width: 50px; }
+    .content .footer .logos img.mexico { width: 90px; }
+    .header .phone .email { font-size: 14px; }
+}
