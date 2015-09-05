@@ -3,33 +3,13 @@
 	<img class="servicio" src="img/servicios/akumal/originales/akumal-4.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Akumal</h3>
-		<p>Akumal es un pequeño destino turístico situado entre Playa del Carmen y Tulum, a 55
-
-minutos de Cancún, cuya principal característica la define su nombre de origen maya: 
-
-“Lugar de Tortugas”. En esta población, existe una increíble bahía, con extensas playas de 
-
-aguas cristalinas y fina arena blanca, en donde puedes practicar numerosas actividades 
-
-como natación, snorquel, buceo, veleo, windsurf, etc. Además estarás en contacto 
-
-muy  cercano con la naturaleza, ya que existe un centro informativo en temas 
-
-ambientales, el CEA (Centro Ecológico Akumal) así como disfrutar de una pequeña 
-
-muestra de la importante cultura maya, ya que aquí podrás encontrar un adoratorio en 
-
-una pequeña isla frente a la caleta Xaac. </p>
+		<p>Akumal is a small tourist destination situated in between Playa Del Carmen and Tulum, and about 55 minutes from Cancun whose characteristics are defined by its Mayan origin “place of turtles” there is an amazing bay, with extensive beaches (crystalline water) white sand where you can practice a numerous water activities such as swimming, snorkeling, diving, sailing, windsurfing etc.  
 		<br>
-		<p>Cercana a esta área, encontrarás zonas de cenotes (como el Cenote Azul y el 
-
-Cenote Edén) en los cuales puedes también practicar natación, snorkel y buceo de 
-
-cavernas (speleología), viviendo esta increíble experiencia que solo se da en este tipo de 
-
-cavernas de la Península de Yucatán.  </p>
+		<br>You can also be close to nature, as well a department of environment issues the CEA (Akumal ecological center) and lastly and little piece of Mayan culture.
 		<br>
-		<p>Hacia el sur de Akumal, podrás también encontrar el parque natural Aktun Chen, el cual 
+		<br>Also, you will find Cenotes and caves where you can easily practice some snorkel (Yalku).</p>
+		
+<!-- 		<p>Hacia el sur de Akumal, podrás también encontrar el parque natural Aktun Chen, el cual 
 
 contiene en su interior   formaciones rocosas así como también un cenote, todo esto en 
 
@@ -45,7 +25,7 @@ de ellos enfocados a la temática eco-turística, pero también algunos otros mu
 
 como para lograr satisfacer tus necesidades ya que cuentan con la mayoría de los servicios 
 
-de un moderno resort.</p>
+de un moderno resort.</p> -->
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/akumal/originales/akumal-4.jpg" class="photo-link">
