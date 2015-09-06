@@ -3,41 +3,9 @@
 	<img class="servicio" src="img/servicios/tulum/originales/tulum-6.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Tulum</h3>
-		<p>Zamá, como se le conocía a Tulum antiguamente en la Cultura Maya, era una ciudad-observatorio situada frente a las cálidas aguas del Mar Caribe. Dentro del Parque Nacional 
-
-Tulum, se conservan los vestigios de esta esplendorosa cultura; desde El Castillo, podrás 
-
-obtener una increíble vista panorámica del Mar Caribe y su amplia gama de colores 
-
-turquesa; a un lado de la misma, encontrarás la localidad de Tulum que muestra 
-
-un continuo crecimiento, pero que sigue conservando las tradiciones, costumbres y 
-
-sabores que identifican a esta población del Caribe Mexicano, la cual convive a su vez con 
-
-una amplia población extranjera, que hace de Tulum, un lugar totalmente cosmopolita. </p>
-		<br>
-		<p>Desde Tulum, podrás iniciar la exploración de algunas zonas arqueológicas ubicadas al sur 
-
-del estado de Quintana Roo como la de Cobá, así como también numerosas actividades 
-
-como buceo, visita a cenotes, kayak, windsurfing, etc. Por otro lado, podrás visitar parques 
-
-como el Parque eco turístico Xcaret, el parque ecológico Xel-Ha, el cual cuenta con un plan de alimentos todo incluido.  </p>
-		<br>
-		<p>La excelente infraestructura de carreteras de la región, permite que te puedas desplazar 
-
-fácilmente a lugares como Playa del Carmen (50 minutos) y Cancún (95 minutos), esto en caso de 
-
-tener alguna actividad programada en esos lugares.</p>
-		<br>
-		<p>Como parte de la oferta de hoteles en Tulum, podrás encontrar una amplia gama de 
-
-cabañas que van desde las más sencillas y básicas, hasta las de lujo, sin olvidar por 
-
-supuesto, algunos resorts que cuentan con todos los servicios que tu necesitas para vivir 
-
-una aventura simplemente ¡Inolvidable!</p>
+		<p>Also known as (Zama). In Mayan culture it was a city located just in front of the warm waters of the Caribbean Sea; Tulum National Park still remains with this splendid culture that is preserved. From the castle you have an amazing view to the Caribbean Sea. Next to it you will find Tulum with continues to grow but always keeping the culture and traditions within an extensive foreign population which makes of Tulum a complete cosmopolitan place.
+<br><br>You could also start exploring some of the archeological zones located to the south of Cancun Quintana Roo like Coba, a numerous diving activities, visit cenotes, kayak, windsurfing etc. On the other hand,  you can visit water parks as Xcaret, an Eco Touristic Park or Xel-ha, an Ecological Park which has an all-inclusive meal plan. It’s very easy and quickly to get to all of this parks because of the excellent roads infrastructure in the region.
+</p>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/tulum/originales/tulum-1.jpg" class="photo-link">

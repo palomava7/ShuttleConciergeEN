@@ -34,10 +34,10 @@
 
 	<div class="content">
 		<div class="menu">
-			<a href="/" class="active">INICIO</a>
-			<a href="nosotros.php">NOSOTROS</a>
-			<a href="contacto.php">CONTACTO</a>
-			<a href="preguntasfrecuentes.php">PREGUNTAS FRECUENTES</a>
+			<a href="/" class="active">HOME</a>
+			<a href="nosotros.php">ABOUT US</a>
+			<a href="contacto.php">CONTACT</a>
+			<a href="preguntasfrecuentes.php">FAQ</a>
 			<!--<a href="#">BLOG</a>-->
 		</div>	
 		<div class="wrapper">

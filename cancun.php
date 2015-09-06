@@ -3,35 +3,12 @@
 	<img class="servicio" src="img/cancun/cancun-st.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Cancún</h3>
-		<p>Cancún, es una ciudad en el Caribe mexicano, que cuenta con un desarrollo turístico de
-
-primer nivel y un amplio renombre a nivel mundial, reconocido también por diversas 
-
-instituciones como la Organización Internacional de Turismo. Está ubicado en la parte 
-
-norte  del estado de Quintana Roo, México. Cuenta con una amplia variedad de hoteles, 
-
-que están ubicados en sus poco más de 22 kilómetros de playa, las cuales se distinguen por la 
-
-espectacular variedad de colores que nos muestran desde un verde esmeralda hasta un 
-
-azul turquesa. </p>
-<br>
-<p>Además de todo lo anterior, Cancún es el punto principal para iniciar tus actividades en la 
-
-zona, cuenta con un fácil acceso a importantes zonas arqueológicas en la Península de 
-
-Yucatán, interminables recorridos a parques y lugares eco turísticos como los cenotes así 
-
-como a las siempre atractivas y principales playas de la región.  </p>
-<br>
-<p>La gran cantidad de hoteles en Cancún, se encuentran distribuidos en tres sectores: Zona 
-
-Hotelera, Zona Centro y Zona Playa Mujeres. Cuenta con un moderno aeropuerto 
-
-internacional, punto desde donde se desplaza todo el turismo que llega al estado para 
-
-dirigirse a los diferentes hoteles en las diferentes localidades.</p>
+		<p>Cancun is a city in the Mexican Caribbean, which has a first class tourist development and worldwide popularity; it is also recognized by various institutions such as the International Organization for Tourist, that is located in the northern part of the state of Quintana Roo, Mexico.
+		<br>
+		<br>It has a wide variety of hotels which are located within the 22 kilometers of beach, which are distinguished by the spectacular array of colors in the water. 
+		<br>
+		<br>In addition to the above, Cancun is the main point to start your activities in the area, it also has and easy access to important archeological sites in the Yucatan Peninsula, endless trips to parks and ecotourism sites as well as Cenotes that are always attractive and the main beaches in the region which are divided into three sectors: Hotel zone, Center zone and Playa Mujeres zone. <br>
+		<br>It has a modern airport, point from where all the tourists who come to the state go to the hotels in the different localities.</p>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/cancun/originales/cancun-1.jpg" class="photo-link">

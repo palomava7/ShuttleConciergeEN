@@ -9,113 +9,53 @@
 <body>
 	<div >
 	<div class="texto">
-		<h3>Políticas</h3>
+		<h3>Policies:</h3>
 
-<h3>1.-   EXCESO DE EQUIPAJE.</h3>
+<h3>1.	EXCESS BAGGAGE.</h3>
 
-<p>En caso que el equipaje exceda la capacidad del vehículo contratado, el vehículo 
+<p>In case the baggage exceeds the capacity of the agreed vehicle, this will be changed for a larger one with no cost. However, the comfort expected with the original vehicle would be lost and this wouldn’t be a responsibility for Shuttle Concierge. (This is valid only in The Luxe service).</p>
 
-se cambiará por otro de mayor capacidad sin ningún costo, pero se perdería la 
+<h3>2. CHANGES IN YOUR ITINERARY.</h3>
 
-comodidad por la cual se contrato el vehículo original (Válido únicamente en el 
+<p>In case of changes in flight schedules or passengers, they must be notified to Shuttle Concierge, at least 48 hours before, to be reprogrammed and to be able to provide the service smoothly.</p>
 
-servicio De Luxe), sin que esto signifique una responsabilidad para Shuttle 
+<h3>3. TRAVELLING WITH CHILDREN.</h3>
 
-Concierge. </p>
+<p>If traveling with children under 6 years, there is a charge of the same amount as an adult. In this case, Shuttle Concierge, will provide you a chair for the comfort of your baby.</p>
 
-<h3>2.-CAMBIOS EN SU ITINERARIO.</h3>
+<h3>4. DURATION OF TRANSFER.</h3>
 
-<p>En caso de cambios en vuelo, horarios o número de pasajeros, estos deben ser 
+<p>The scheduled duration of the transfer is based on optimal conditions in the operation, if there are difficulties in the operation itself, such as: repairs, closures, bad weather, etc., this does not mean responsibility for Shuttle Concierge.</p>
 
-notificados a Shuttle Concierge, por lo menos 48 horas antes, para poder ser 
+<h3>5. PERIOD AT THE AIRPORT.</h3>
 
-reprogramados, pudiendo así brindar el servicio sin contratiempos.</p>
+<p>Considering that the airport migratory procedures are time-consuming and sometimes take longer than normal, the driver Shuttle Concierge will wait for you as long as necessary, outside the airport terminal, with a personalized banner.</p>
 
-<h3>3.- VIAJANDO CON MENORES.</h3>
+<h3>6. PERIOD IN THE HOTEL.</h3>
 
-<p>En caso de viajar con niños menores de 6 años, existe un cargo igual al que 
+<p>If you have setbacks to leave the hotel and move to the airport, the timeout is 20 minutes, if after this time you are not ready, the driver Shuttle Concierge will departure leaving a notice of No Show with the hotel porter, receiving 100% of the transfer payment.</p>
 
-existe por un adulto, en este caso, Shuttle Concierge le facilita una silla para 
+<h3>7. RECOMMENDATIONS OF HOURS FOR YOUR RETURN.</h3>
 
-mayor comodidad de su bebé. </p>
+<p>For your transfer back to the airport, Shuttle Concierge will suggest a schedule with which you can be back without difficulty taking your flight; if you decide to choose another schedule, this will be at your own risk, without incurring any liability for Shuttle Concierge</p>
 
-<h3>4.- DURACIÓN DEL TRASLADO.  </h3>
+<h3>8. CANCELLATION OF SERVICE.</h3>
 
-<p>La duración programada del traslado, es en base a condiciones óptimas en la 
+<p>Reservations canceled by the user in less than 24 hours before the transfer date, will be non refundable by Shuttle Concierge.</p>
 
-operación, en caso que existan dificultades en la operación misma, como por 
+<h3>9. PAYMENT.</h3>
 
-ejemplo: reparaciones, cierres, mal estado del tiempo, etc., esto no significaría 
+<p>Payments can be made through PAYPAL payment system before receiving the service, likewise it can paid in CASH to the Shuttle Concierge driver at the airport.</p>
 
-una responsabilidad para Shuttle Concierge. </p>
+<h3>10. CONTACTING STAFF SHUTTLE CONCIERGE AT THE AIRPORT.</h3>
 
-<h3>5.-   TIEMPO DE ESPERA EN EL AEROPUERTO. </h3>
+<p>At the airport, after taking your luggage, have cleared immigration and customs at the exit of the airport you can easily identify the staff of Shuttle Concierge, who wear shirts with the name and logo of the company, carry a personalized banner and they are ready to give you the contracted service. Remember: "OUT OF THE TERMINAL"</p>
 
-<p>Considerando que los trámites migratorios en el aeropuerto, son tardados y en 
+<h3>11. WHAT DOES THE SERVICE INCLUDE?</h3>
 
-ocasiones llevan más tiempo de lo normal, el conductor de Shuttle Concierge 
+<p>The benefits included in your shipment, are detailed on your booking voucher, this same information is the one in the service description that you selected on our website when making your purchase.</p>
 
-esperará por usted el tiempo que sea necesario, afuera de la terminal aérea, con 
-
-un banner personalizado. </p>
-
-<h3>6.- TIEMPO DE ESPERA EN EL HOTEL.   </h3>
-
-<p>En caso que tengas contratiempos para dejar el hotel y poder trasladarte al 
-
-aeropuerto, el tiempo de espera máximo será de 20 minutos, si después de este 
-
-tiempo no estás listo, el conductor de Shuttle Concierge se retira dejando un 
-
-aviso de No Show con el portero del hotel, cobrando el 100% del traslado. </p>
-
-<h3>7.- RECOMENDACIONES DE HORARIOS PARA SU REGRESO.</h3>
-
-<p>Para tu traslado de regreso al aeropuerto, Shuttle Concierge te sugerirá un horario 
-
-con el que podrás estar de regreso y sin dificultades para tomar tu vuelo; en 
-
-caso que decidas elegir otro horario, esto será bajo tu propio riesgo, sin que 
-
-signifique responsabilidad alguna para Shuttle Concierge.</p>
-
-<h3>8.- TIEMPOS DE CANCELACIÓN DEL SERVICIO</h3>
-
-<p>Las reservaciones canceladas por el usuario en un tiempo menor a 24 horas, 
-
-antes de la fecha del traslado,  no serán reembolsables por parte de Shuttle 
-
-Concierge. </p>
-
-<h3>9.- FORMAS DE PAGO.</h3>
-
-<p>Los pagos pueden ser efectuados a través del sistema de pagos PAYPAL antes 
-
-de recibir el servicio, de igual manera, puedes pagar en EFECTIVO al conductor 
-
-de Shuttle Concierge al llegar al aeropuerto. </p>
-
-<h3>10.- CONTACTANDO AL STAFF DE SHUTTLE CONCIERGE EN AEROPUERTO.</h3>
-
-<p>Al llegar al aeropuerto, después de tomar tu equipaje, haber pasado migración y 
-
-aduana, en la salida de la terminal aérea podrás identificar fácilmente al staff de 
-
-Shuttle Concierge, quienes visten playeras con el nombre y logotipo de la 
-
-compañía, portan un banner personalizado y estarán listos para brindarte el 
-
-servicio contratado. Recuerda: “AFUERA DE LA TERMINAL”</p>
-
-<h3>11.- QUE INCLUYE EL SERVICIO.</h3>
-
-<p>Los beneficios incluidos en tu traslado, están detallados en tu voucher de 
-
-reservación, ésta misma información, es la que aparece en la descripción de 
-
-servicio que seleccionaste en nuestra página web al momento de hacer tu compra.</p>
-
-<h3>Aviso de Privacidad</h3>
+<!--<h3>Aviso de Privacidad</h3>
 
 <p>De acuerdo a lo establecido por la Ley Federal de Protección de Datos 
 
@@ -347,7 +287,7 @@ presente Aviso de Privacidad.</p>
 
 persona manifiesto que cuento con la completa autorización del titular de dichos 
 
-datos personales.</p>
+datos personales.</p>-->
 	</div>
 	</div>
 </body>

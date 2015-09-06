@@ -3,49 +3,11 @@
 	<img class="servicio" src="img/servicios/xoximilco/originales/xoxi-5.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Xoximilco</h3>
-		<p>Recrea toda la magia de la cultura mexicana, a bordo de bellas, iluminadas y coloridas 
+		<p>Xochimilco recreates the magic of Mexican culture, aboard beautiful bright and colorful trajineras that cross beautiful canals, which will transport you to the magical atmosphere of the traditional Xochimilco in Mexico City.
+<br><br>In this tour, you will enjoy one of the 32 traditional trajineras which represent the 32 states of Mexico and can recreate the journey that made these vessels to transport flowers and vegetables that are harvested in the chinampas channel of the same name.
+<br><br>During the tour you will also enjoy Mexican vernacular music, listening to the rhythm of traditional marimba and mariachi always elegant; if that's not enough, wait till you enjoy the culinary delights of the millenary Mexican cuisine. All these elements together make you feel vibrant and in an unforgettable atmosphere, 100% Mexican atmosphere of our land, an environment that you can enjoy with your family or friends.
+<br><br>By selecting this tour, it is important to note that the trajineras have a maximum capacity of 20 people.</p>
 
-trajineras que recorren hermosos canales, los cuales te transportaran a la mágica 
-
-atmósfera del tradicional Xochimilco de la ciudad de México. 
-
-</p>
-<br>
-<p>Este tour, lo disfrutarás en una de las 32 tradicionales trajineras las cuales representan a 
-
-los 32 estados de México y podrás recrear el recorrido que hacían este tipo de 
-
-embarcaciones para transportar flores y hortalizas que se cosechaban en las chinampas de 
-
-los canales del mismo nombre.</p>
-<br>
-<p>Durante el recorrido, disfruta de las raíces musicales mexicanas escuchando el ritmo de la 
-
-tradicional marimba y el siempre elegante mariachi; si esto te parece poco, espera a que 
-
-disfrutes de las delicias culinarias de la milenaria cocina mexicana. Todos estos elementos 
-
-en conjunto, te harán sentir un vibrante e inolvidable ambiente 100 % mexicano, el 
-
-ambiente de nuestra tierra mexicana, un ambiente que podrás disfrutar en compañía de 
-
-familiares o amigos.</p>
-<br>
-<p>Al seleccionar este recorrido, es importante tomar en cuenta que las trajineras tienen una 
-
-capacidad máxima de 20 personas.</p>
-<br>
-<p>Que incluye la entrada al parque:</p>
-<p>• Recorrido nocturno a bordo de una trajinera en Cancún.</p>
-<p>• Cena degustación con lo mejor de la gastronomía mexicana.</p>
-<p>• Barra libre de tequila, cerveza, aguas frescas y refrescos.</p>
-<p>• Diferentes grupos de música típica mexicana en vivo como: mariachi, grupo 
-
-bolero, grupo jarocho y marimba.</p>
-<p>• Abierto de lunes a sábado de 7:00 p. m. a 12:00 a. m.</p>
-<p>• Hora de entrada a las 6:30 p. m.</p>
-<p>• Duración aproximada: 3 horas.</p>
-<br>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/xoximilco/originales/xoxi-1.jpg" class="photo-link">

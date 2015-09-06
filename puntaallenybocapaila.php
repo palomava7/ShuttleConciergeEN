@@ -3,45 +3,10 @@
 	<img class="servicio" src="img/servicios/pabp/originales/bppa-4.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Punta Allen & Boca Paila</h3>
-		<p>Punta Allen y Boca Paila, son comunidades dentro de la Reserva de Sian Ka’an,
-
-		perteneciente al municipio de Tulum. Ideales para quienes gustan de actividades 
-
-		totalmente eco turísticas como la observación de flora y fauna, visitas a sus ecosistemas 
-
-		únicos,  guías especializadas en sus áreas, recorridos de amplias playas, sus manglares y 
-
-		su complejo de arrecifes coralinos. </p>
-		<br>
-		<p>Pero sin lugar a dudas,  Boca Paila es internacionalmente conocida por ser uno de los 
-
-		mejores lugares para la pesca en agua salada ya que las lagunas de Boca Paila son el hogar 
-
-		del sábalo de plata. Otro de los atractivos de la región son los diversos sitios arqueológicos 
-
-		que se encuentran en estos lugares, teniendo como ejemplos más representativos los de 
-
-		Muyil y Tampak.  </p>
-		<br>
-		<p>Punta Allen se encuentra situada por carretera a una distancia aproximada de 2 horas y 45 
-
-		minutos de Cancún, 1 hora y 50 minutos de Playa del Carmen, 1 hora y 10 minutos de 
-
-		Tulum y 40 minutos después de Boca Paila.</p>
-		<br>
-		<p>Es de suma importancia, observar que tanto Boca Paila como Punta Allen, al estar dentro 
-
-		de una reserva natural protegida, manejan ciertas normas regulatorias respecto a las 
-
-		actividades recreativas que se realicen en el lugar, por lo que es recomendable que te 
-
-		informes al respecto.</p>
-		<br>
-		<p>Estas localidades, ofrecen algunas opciones de hoteles, los cuales cuentan con excelentes 
-
-		servicios y comodidades que te permitirán disfrutar de unos días inolvidables con sus 
-
-		amaneceres y atardeceres en el hermoso Caribe mexicano.</p>
+		<p>These are some communities within the Sian Ka’an reserve also as part of Tulum. Ideal for those who totally like eco-tourism such as observation of flora and fauna. As well internationally known to be one of best saltwater fishing places. <br><br>Other attractions of the region are the various archaeological sites found in the places. The most representative are Muyil and Tampak.
+Punta Allen is a coastal community more to the south: it’s a small fishing village, where the only way to get there it’s through a reduced path in between Muyil´s lagoon and the Caribbean Sea once you have passed Boca Paila.
+ <br><br>It is very important to remember that Boca Paila and Punta Allen are considered a natural reserve; therefore, there is a list of rules to be follow while in the areas. These locations offer some hotel options which have excellent amenities for you to enjoy unforgettable days with sunrises and sunsets of the Mexican Caribbean.
+</p>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/pabp/originales/bppa-1.jpg" class="photo-link">

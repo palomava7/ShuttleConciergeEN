@@ -3,37 +3,10 @@
 	<img class="servicio" src="img/servicios/playadelcarmen/originales/playa-2.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Playa del Carmen</h3>
-		<p>Este maravilloso lugar, poseedor de una belleza encantadora, unos atardeceres mágicos y 
-
-unas playas incomparables, se encuentra a sólo 45 minutos de Cancún. Desde aquí, 
-
-puedes acceder a un sin fin de lugares y atracciones. Posee una amplia variedad de hoteles 
-
-y una agitada vida nocturna, que hacen que el visitante de la Península de Yucatán, desee 
-
-conocerla antes de regresar a casa. </p>
-		<br>
-		<p>Al visitar Playa del Carmen, no olvides caminar por su ya famosa 5ª. Avenida, la cual es 
-
-uno de sus principales atractivos y lugar donde convergen los principales restaurantes, 
-
-bares y establecimientos comerciales donde encontrarás una incomparable oferta de artículos 
-
-nacionales y extranjeros. De igual manera y como lo mencionamos antes, su espectacular 
-
-zona de playas es anfitriona de múltiples tipos de eventos y un lugar para ver y ser visto, 
-
-siendo Playa Mamitas uno de los principales puntos de reunión para los visitantes.  </p>
-		<br>
-		<p>La oferta de hoteles Playa del Carmen es tan extensa, que seguramente encontrarás uno 
-
-que se adecúe a tus gustos y presupuesto, ya que existen desde hostales con los servicios 
-
-básicos, resorts que cuentan con todas las facilidades para tu comodidad, hasta los 
-
-hoteles tipo boutique que ofrecen un servicio exclusivo y personalizado que seguramente 
-
-te proporcionarán una experiencia memorable.</p>
+		<p>This is a wonderful place possessing a charming beauty, magical sunsets and incomparable beaches. It is just 45 minutes away from Cancun, from here you can access to plenty of wonderful places. It has restless nights, it really makes visitors to get to know it before you go back home.<br><br>
+Once you get there do not forget to walk down the 5th avenue a very famous street known for its restaurants, bars, night clubs and souvenir stores. Same way as mentioned above, spectacular beach areas host multiple events. Playa Mamitas, one of the most well known by visitors.<br><br>
+As well, you will find an extensive hotel variety that will suit  your needs and budget. The customer service is one of our major priorities, and Playa Del Carmen isn’t an exception of it. It is all being done for you to have a memorable experience.
+</p>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/playadelcarmen/originales/playa-1.jpg" class="photo-link">

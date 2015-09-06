@@ -3,30 +3,8 @@
 	<img class="servicio" src="img/servicios/puertoaventuras/originales/paventuras-1.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Puerto Aventuras</h3>
-		<p>Esta población, localizada aproximadamente a 15 minutos de Playa del Carmen y a una hora
-
-del aeropuerto de Cancún, cuenta con una marina considerada como una de las mejores 
-
-de la región. Además de lo anterior, Puerto Aventuras se distingue de igual manera por 
-
-poseer unas playas de singular belleza y blanca arena que lo hacen uno de los preferidos 
-
-de la gente.  </p>
-		<br>
-		<p>Puerto Aventuras tiene dentro de su infraestructura, modernos y amplios hoteles que 
-
-permiten al viajero tener múltiples opciones para alojarse así como una amplia oferta de 
-
-condominios lo cual permite que muchos viajeros establezcan aquí su lugar de descanso, 
-
-especialmente para aquellos que les gusta disfrutar de las actividades náuticas y los 
-
-entornos naturales como los que ofrece la zona.   </p>
-		<br>
-		<p>Este lugar, también ofrece como parte de su infraestructura un club de golf y tenis, iglesia, 
-
-área comercial, museo, tiendas, restaurantes, bares y un delfinario.</p>
-	</div>
+		<p>This town located about 15 minutes away from Playa Del Carmen and one hour from Cancun airport, it has a marina considered one of the best in the region. It is also distinguished by having particularly beautiful beaches and white sand that makes one of the favorite places of visitors.<br><br> Puerto Aventuras has within its infrastructure modern and spacious hotels that allow the traveler to have multiple options to their stay. <br><br>This place also offers as part of its infrastructure, golf court, tennis court, church, grocery store, museum, stores, restaurants, bars and a dolphinarium.</p>
+		</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/puertoaventuras/originales/paventuras-1.jpg" class="photo-link">
 			<div class="miniImage">

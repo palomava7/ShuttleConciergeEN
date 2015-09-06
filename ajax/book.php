@@ -141,16 +141,16 @@
 	if ( $_GET["payment"] == "paypal" ) {
 		require_once ("../modules/paypalfunctions.php");
 		$shuttle_type;
-		if ($_GET["type"]=="round trip") $shuttle_type="Traslado Redondo";
-		if ($_GET["type"]=="arrival") $shuttle_type="Traslado de llegada";
-		if ($_GET["type"]=="departure") $shuttle_type="Traslado de Salida";
+		if ($_GET["type"]=="round trip") $shuttle_type="Round Trip";
+		if ($_GET["type"]=="arrival") $shuttle_type="Arrival";
+		if ($_GET["type"]=="departure") $shuttle_type="Departure";
 		$service_name;
-		if ($_GET["service"]=="shared") $service_name="Colectivo";
-		if ($_GET["service"]=="private") $service_name="Privado";
+		if ($_GET["service"]=="shared") $service_name="Shared";
+		if ($_GET["service"]=="private") $service_name="Private";
 		if ($_GET["service"]=="premium") $service_name="Premium";
 
 		$paymentAmount = $price;
-		$description = "{$shuttle_type} con destino a {$destination_name}({$zone_name}) con servicio de tipo {$service_name} para {$_GET["pax"]} pasajeros.";
+		$description = "{$shuttle_type} bound for {$destination_name}({$zone_name}) with a {$service_name} service type for {$_GET["pax"]} passengers.";
 
 		$returnURL = "http://www.shuttleconcierge.com/confirmacion.php?id=".$book_id;
 
@@ -185,7 +185,7 @@
 	$mysqli->close();
 
 	$to      = $_GET["email"] . ';' . $mail_notify;
-	$subject = 'Reservaciones de ShuttleConcierge';
+	$subject = 'Reservations in ShuttleConcierge';
 	
 	$headers = 'From: ' . $mail_from . "\r\n" .
 	    'Reply-To: ' . $mail_from . "\r\n" .
@@ -194,7 +194,7 @@
 	$headers_cliente  = "MIME-Version: 1.0\r\n";
 	$headers_cliente .= "Content-type: text/html; charset=UTF-8\r\n";
 	$headers_cliente .= "Date: ". date('r'). " \r\n";
-	$headers_cliente .= "From:Reservaciones ShuttleConcierge <reservaciones@shuttleconcierge.com>\r\n";
+	$headers_cliente .= "From:Reservations ShuttleConcierge <reservaciones@shuttleconcierge.com>\r\n";
 	$headers_cliente .= "Reply-to:reservaciones@shuttleconcierge.com \r\n";
 	$headers_cliente .= "Organization: ShuttleConcierge \r\n";
 	$headers_cliente .= "X-Sender:reservaciones@shuttleconcierge.com \r\n";
@@ -218,14 +218,14 @@
 
 	$body .=
 	'<div class="confirm">
-		<h2>RESERVACIÓN CONFIRMADA</h2>
+		<h2>RESERVATION CONFIRMED</h2>
 			<div class="book">
 				<fieldset>
-					<legend>Información del traslado</legend>
-					<div><span class="label">Tipo de traslado </span><span class="value">'.$_GET["type"].'</span></div>
-					<div><span class="label">Destino</span><span class="value">';
+					<legend>Trip Information</legend>
+					<div><span class="label">Trip Type </span><span class="value">'.$_GET["type"].'</span></div>
+					<div><span class="label">Destination</span><span class="value">';
 					
-						$airport="Aeropuerto Cancún";
+						$airport="Cancun Airport";
 						if($_GET["type"]=="arrival"){
 							$body .= $airport.'	&rarr;	'.$destination_name;
 						}
@@ -237,35 +237,35 @@
 						}
 	$body .= '
 					</span></div>
-					<div><span class="label">Tipo de servicio </span><span class="value">'.$_GET["service"].'</span></div>
-					<div><span class="label">Pasajeros </span><span class="value">'.$pax.'</span></div>';
+					<div><span class="label">Service Type </span><span class="value">'.$_GET["service"].'</span></div>
+					<div><span class="label">Passengers </span><span class="value">'.$pax.'</span></div>';
 					if ($_GET["type"]=="arrival" || $_GET["type"]=="round trip") {
 	$body .= '
-					<div><span class="label">Llegada </span><span class="value">'.$start_date.$arrivaltime.' [Aerolínea: '.$arrivalairline.' | Vuelo: '.$arrivalflight.']</span></div>';
+					<div><span class="label">Arrival </span><span class="value">'.$start_date.$arrivaltime.' [Aerolínea: '.$arrivalairline.' | Vuelo: '.$arrivalflight.']</span></div>';
 					}
 					if ($_GET["type"]=="departure" || $_GET["type"]=="round trip") {
 	$body .= '
-					<div><span class="label">Salida </span><span class="value">'.$end_date.$departuretime.' [Aerolínea: '.$departureairline.' | Vuelo: '.$departureflight.']</span></div>';
+					<div><span class="label">Departure </span><span class="value">'.$end_date.$departuretime.' [Aerolínea: '.$departureairline.' | Vuelo: '.$departureflight.']</span></div>';
 					}
 	$body .= '
-					<div><span class="label">Tipo de pago</span><span class="value">'.$_GET["payment"].'</span></div>
+					<div><span class="label">Type of payment</span><span class="value">'.$_GET["payment"].'</span></div>
 				</fieldset>
 				<br>
 				<fieldset>
-					<legend>Información de contacto</legend>
-					<div><span class="label">Nombre </span><span class="value">'.$_GET["full_name"].'</span></div>
-					<div><span class="label">Teléfono </span><span class="value">+52 '.$_GET["phone"].'</span></div>
+					<legend>Contact information</legend>
+					<div><span class="label">Name </span><span class="value">'.$_GET["full_name"].'</span></div>
+					<div><span class="label">Phone Number </span><span class="value">+52 '.$_GET["phone"].'</span></div>
 					<div><span class="label">Email </span><span style="text-transform: lowercase;" class="value">'.$_GET["email"].'</span></div>
-					<div><span class="label">Dirección </span><span class="value">'.$_GET["address"].'</span></div>
-					<div><span class="label">País </span><span class="value">'.$_GET["country"].'</span></div>
-					<div><span class="label">Estado </span><span class="value">'.$_GET["state"].'</span></div>
-					<div><span class="label">Ciudad </span><span class="value">'.$_GET["city"].'</span></div>
-					<div><span class="label">Código Postal </span><span class="value">'.$_GET["zip_code"].'</span></div>
+					<div><span class="label">Address </span><span class="value">'.$_GET["address"].'</span></div>
+					<div><span class="label">Country </span><span class="value">'.$_GET["country"].'</span></div>
+					<div><span class="label">State </span><span class="value">'.$_GET["state"].'</span></div>
+					<div><span class="label">City </span><span class="value">'.$_GET["city"].'</span></div>
+					<div><span class="label">Zip Code </span><span class="value">'.$_GET["zip_code"].'</span></div>
 				</fieldset>
 			</div>
 			<br>
 			<div class="price">
-				<span class="label">Servicio '; if($_GET["payment"] == "paypal") $body .= "Pagado por Paypal"; else $body .= "Por pagar"; $body .= '</span>
+				<span class="label">Service '; if($_GET["payment"] == "paypal") $body .= "Paid with Paypal"; else $body .= "Payable"; $body .= '</span>
 				<span class="amount value">$'.$price.' <span class="currency">USD</span></span>
 			</div>
 	</div>';

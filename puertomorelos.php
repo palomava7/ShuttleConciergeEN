@@ -3,45 +3,12 @@
 	<img class="servicio" src="img/servicios/puertomorelos/originales/pmorelos-3.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Puerto Morelos</h3>
-		<p>Este maravilloso poblado, situado entre Cancún y Playa del Carmen, se caracteriza por 
-
-ofrecer al visitante una tranquilidad inigualable y una apacible vida que nos permite 
-
-disfrutar sin contratiempos ni prisas de sus tranquilas playas con cristalinas aguas 
-
-caribeñas y su blanca arena, así como de una flora y fauna exuberante, debido a que se 
-
-encuentra rodeada de amplios manglares.</p><br>
-
-<p>Puerto Morelos es reconocido principalmente por dos cosas:</p>
-
-<p>1.- Sus torneos de pesca en diversas temporadas del año.</p>
-
-<p>2.- Su amplia zona de arrecifes (declarada Parque Nacional), segundo en importancia a 
-
-nivel mundial y en donde se puede bucear y practicar un sin fin de actividades muy 
-
-fácilmente. </p>
-<br>
-<p>Aún cuando es una población pequeña, Puerto Morelos cuenta con los servicios básicos 
-
-como banco, casa de cambio, tiendas de conveniencia, iglesia y muchas cosas más. 
-
-Es también en éste punto, en donde puedes iniciar la ruta de los Cenotes para disfrutar 
-
-de éstas pozas naturales con sus refrescantes aguas subterráneas, las cuales están 
-
-también rodeadas por la exuberante selva que caracteriza a la región.</p>
-<br>
-<p>Al igual que muchos lugares de la Riviera Maya, Puerto Morelos cuenta con una gran 
-
-variedad de hoteles, todos de una excelente calidad y un ambiente acorde al lugar. 
-
-Por último, desde aquí, puedes cruzar en tu vehículo a la Isla de Cozumel, a 
-
-través del transbordador (ferry) que se encuentra en el lugar, el cual ofrece diversos 
-
-horarios que te permite programar tu visita a ese lugar.</p>
+		<p>This a wonderful town located between Cancun and Playa Del Carmen, it is characterized by offering the visitor a unique tranquil and peaceful life, allowing to enjoy the smoothness and serenity. There are beaches with crystal clear waters as well as a lush flora and fauna because it is surrounded by extensive mangroves. <br><br>Puerto Morelos is also recognized for two reasons.
+<br><br>1.	Diverse Fishing tournaments in different times of the year.
+<br><br>2.	Its extensive reef areas which are worldwide declared as the Second most important National Park.
+<br><br>Even though it is a very small town, it has everything they could possibly need. Banks, money exchange houses, churches etc. It is also the route where you can begin visiting all the Cenotes that are also found in the same area.
+<br><br>Like many places in the Riviera Maya, Puerto Morelos has a variety of hotels, all of excellent quality an environment according to the place. And finally it is here from here we can cross our cars to the island of Cozumel via ferry, they have different schedules according to your needs.
+</p>
 		
 	</div>
 	<div class="slider">

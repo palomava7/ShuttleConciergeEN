@@ -3,47 +3,17 @@
 	<img class="servicio" src="img/servicios/xplor/originales/xplor-1.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Xplor & Xplor Fuego</h3>
-		<p>Cercano al parque Xcaret, ubicado a solo 5 minutos de Playa del Carmen y 45 
-
-minutos de Cancún, se encuentra el parque Xplor, el cual tiene una extensión de 
-
-59 hectáreas, ocho de las cuales están acondicionadas bajo tierra. </p>
-<br>
-<p>Aquí puedes divertirte con cuatro increíbles actividades: tirolesas, vehículos anfibios, balsas y nado en río subterráneo.</p>
-<br>
-<p>Todas las actividades relacionadas con la aventura y la naturaleza; se desarrollan 
-
-en un escenario natural y al aire libre. Además, por si se agotan tus energías en 
-
-algún momento de tu aventura, se ofrecen licuados y jugos naturales de manera 
-
-ilimitada en algunos puntos del parque y una deliciosa barra buffet en el 
-
-restaurante “El Troglodita”.</p>
-<br>
-<p>Por si esto fuera poco y te gusta la aventura extrema, Xplor ofrece una nueva 
-
-experiencia que hace posible disfrutar de actividades al atardecer y anochecer: 
-
-Tour Xplor Fuego, actividad que conjunta lo mejor de dos mundos en una versión 
-
-nocturna, invitándote a descubrir nuevas emociones integrando elementos 
-
-adicionales como el fuego de las antorchas, las luciérnagas y las estrellas que 
-
-iluminan cuevas, caminos y puentes.</p>
-<br>
-<p>Con esta nueva aventura presenciarás la puesta de sol, te aventurarás en la 
-
-oscuridad de la selva además de sumergirte en las refrescantes aguas de un río 
-
-subterráneo, mirando las hogueras, conviviendo con la fauna de la noche y 
-
-disfrutando de la luz de la luna y las estrellas que te guían en las sombras. La 
-
-invitación de este parque es única: "Encender tu vida con Xplor Fuego, un reto en 
-
-la oscuridad como nunca podrías haber imaginado".</p>
+		<p>Close to Xcaret park, located at 5 minutes from Playa del Carmen and 45 from Cancun, it has an area of 59 hectares, 8 of them are underground set up, you can have fun with 4 amazing activities:
+<br><br>•	Zipline
+<br><br>•	Atv
+<br><br>•	Rafts
+<br><br>•	Swiming in an underground river
+<br><br>All the activities are associated with adventure and nature, they take place in a natural environment and outdoors. If your energy is depleted any moment in your adventure, smoothies and juices are offered unlimited in some areas of the park and a delicious buffet in the restaurant-bar “El Troglodita”.
+<br><br>As if this were not enough of an extreme adventure, Xplore offers a new experience that makes it possible to enjoy activities at sunset and at night.
+<br><br>Xplor Tour Fuego, an activity that combines the best of two worlds, a night version, inviting you to discover new emotions integrating additional elements like fire torches, fire flies and stars that illuminate caves, roads and bridges.
+<br><br>With this new adventure you will witness the sunset, venture into the darkness of the jungle, dive into the refreshing waters of an underground river, watch the fires, live with wild life at night, enjoy the moonlight and stars that guide you in the shadows. The invitation of this park is unique: "Turn your life with XplorFuego, a challenge in the dark that you had never imagined."
+Many people come to the park willing to live and enjoy amazing experiences full of adventure and adrenaline.  Xplore is a place where the mystery of nature is laid on an amazing setting, ready for a real adventure. 
+</p>
 <br>
 	</div>
 	<div class="slider">

@@ -9,23 +9,7 @@
 		<br>
 		<br>Also, you will find Cenotes and caves where you can easily practice some snorkel (Yalku).</p>
 		
-<!-- 		<p>Hacia el sur de Akumal, podrás también encontrar el parque natural Aktun Chen, el cual 
 
-contiene en su interior   formaciones rocosas así como también un cenote, todo esto en 
-
-conjunto, da origen a su nombre: Cueva con Cenote en su Interior. </p>
-		<br>
-		<p>Otro lugar de gran interés en el área, es la Caleta de Yalku que está muy cerca del mar y 
-
-en donde puedes practicar snorkel con mucha facilidad.</p>
-		<br>
-		<p>Además de todo lo anterior, Akumal cuenta con una amplia gama de hoteles, la mayoría 
-
-de ellos enfocados a la temática eco-turística, pero también algunos otros muy completos 
-
-como para lograr satisfacer tus necesidades ya que cuentan con la mayoría de los servicios 
-
-de un moderno resort.</p> -->
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/akumal/originales/akumal-4.jpg" class="photo-link">

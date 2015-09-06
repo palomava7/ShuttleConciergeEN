@@ -3,45 +3,12 @@
 	<img class="servicio" src="img/servicios/xelha/originales/xelha-9.jpg" alt="Cancún">
 	<div class="texto">
 		<h3>Xel-Há</h3>
-		<p>El acuario natural más grande del mundo, como se le conoce a Xel Há, es un parque 
+		<p>The world’s largest natural aquarium known as Xel-Ha, it’s an ecological park located in the Solidaridad municipality in the state of Quintana Roo. Its main feature is a beautiful cove where the river connects with the Caribbean Sea which makes the perfect coexistence between more than 70 marine and freshwater species.
+		<br><br> Also known as a natural wonder of Mexico, Xel-Ha is located right in the heart of the Mayan Riviera. 102 kilometers from the city of Cancun, 48 kilometers from Playa del Carmen and 13 kilometers from Tulum. In the cove, there is a variety of water sports that can be practiced; such as snorkel and scuba diving. There is also a special area used for activities such as interacting with the dolphins and manatees, zip lines and the Sea Trek which consists on an underwater walk.
+<br><br>Around the cove you will find an endless variety of beautiful formations, like a cavern with walls covered in extinct mollusk fossils among other prehistoric specimens. Close to the Cenotes  “Paraiso” and “Aventura”, you will also find a numerous amount of living species of fish and birds in danger of extinction. 
+<br><br>In Xel-Ha, besides enjoying endless activities, you can also enjoy an all-inclusive deal of meals and beverages which is included in the cost of the admission ticket for the park.
+</p>
 
-ecológico ubicado en el municipio de Solidaridad, en el estado de Quintana Roo, México. 
-
-Su  característica principal es una hermosa caleta en la que el agua de un río se une con el 
-
-Mar Caribe lo cual hace el espacio perfecto para la convivencia natural de más de 70 
-
-especies marinas así como de agua dulce.</p>
-<br>
-<p>También conocida como Maravilla Natural de México, Xel Há se encuentra en pleno 
-
-corazón de la Riviera Maya, a 122 Km de Cancún, 48 Km de Playa del Carmen y 13 Km de 
-
-Tulum.</p>
-<br>
-<p>En la caleta pueden practicarse una variedad de deportes acuáticos como el 
-
-snorkel, el buceo y el snuba. También existe un espacio especial para actividades 
-
-como la convivencia con delfines y manatíes, tirolesas acuáticas y el Sea Trek que 
-
-consiste en una caminata submarina.</p>
-<br>
-<p>Alrededor de la caleta encontrarás un sinfín de formaciones de gran belleza, como 
-
-una gruta cuyas paredes se encuentran cubiertas de fósiles de moluscos extintos 
-
-y otros especímenes prehistóricos. También encontrarás cerca los cenotes 
-
-Paraíso y Aventura, que albergan numerosas especies de peces y aves en peligro 
-
-de extinción. </p>
-<br>
-<p>En Xel Há, además de disfrutar de un sin fin de actividades, puedes también gozar 
-
-del beneficio del plan todo incluido (en alimentos y bebidas) el cual va incluido en 
-
-el costo del boleto para entrar al parque. </p>
 	</div>
 	<div class="slider">
 		<div class="slide"><a href="img/servicios/xelha/originales/xelha-1.jpg" class="photo-link">

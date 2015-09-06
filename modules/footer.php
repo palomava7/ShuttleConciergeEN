@@ -5,11 +5,11 @@
 				<img src="img/rivieramaya-logo.jpg" alt="Riviera Maya"  class="riviera">
 				<img src="img/mexico-logo.jpg" alt="México" class="mexico">
 			</div>
-			<div class="legals"><a href="politicas.php" class="terms-link">TÉRMINOS Y CONDICIONES</a></div>
+			<div class="legals"><a href="politicas.php" class="terms-link">Terms and Conditions</a></div>
 			<div class="copy">
-				<p>Copyright &copy; Todos los derechos reservados. 2015, ShuttleConcierge. Canc&uacute;n, M&eacute;xico.</p>
-				<p>Llama GRATIS MX - 01 800 890 5878, USA - 1 844 242 1226, CAN - 1 844 226 3831</p>
-				<p>Tel.01 (998) 146 1731 y 01 (998) 146 2173</p>
+				<p>Copyright &copy; All rights reserved. 2015, ShuttleConcierge. Cancun, Mexico.</p>
+				<p>Call FREE MX - 01 800 890 5878, USA - 1 844 242 1226, CAN - 1 844 226 3831</p>
+				<p>Phone.01 (998) 146 1731 y 01 (998) 146 2173</p>
 				<p>email: contacto@shuttleconcierge.com</p>
 			</div>
 		</div>

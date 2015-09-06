@@ -30,15 +30,15 @@
 	}
 </script>
 	<div class="confirm">
-		<h2>RESERVACIÓN CONFIRMADA</h2>
+		<h2>RESERVATION CONFIRMED</h2>
 		<?php foreach ($data as $info): ?>
 			<div class="book">
 				<fieldset>
-					<legend>Información del traslado</legend>
-					<div><span class="label">Tipo de traslado</span><span class="value"><?php echo $info["type"]?></span></div>
-					<div><span class="label">Destino</span><span class="value">
+					<legend>Transfer Information</legend>
+					<div><span class="label">Transfer type</span><span class="value"><?php echo $info["type"]?></span></div>
+					<div><span class="label">Destination</span><span class="value">
 						<?php
-							$airport="Aeropuerto Cancún";
+							$airport="Cancun Airport";
 						if($info["type"]=="arrival"){
 							echo $airport;?>	&rarr;	<?php echo $info["destination"];
 						}
@@ -50,35 +50,35 @@
 						}
 						?>
 					</span></div>
-					<div><span class="label">Tipo de servicio</span><span class="value"><?php echo $info["service"]?></span></div>
-					<div><span class="label">Pasajeros</span><span class="value"><?php echo $info["pax"]?></span></div>
+					<div><span class="label">Service type</span><span class="value"><?php echo $info["service"]?></span></div>
+					<div><span class="label">Passengers</span><span class="value"><?php echo $info["pax"]?></span></div>
 					<?php if ($info["type"] == "arrival" || $info["type"] == "round trip") { ?>
-					<div><span class="label">Llegada</span><span class="value"><?php echo $info["start"]?> <?php echo $info["arrival_time"]?> [Aerolínea: <?php echo $info["arrival_airline"]?> | Vuelo: <?php echo $info["arrival_flight"]?>]</span></div>
+					<div><span class="label">Arrival</span><span class="value"><?php echo $info["start"]?> <?php echo $info["arrival_time"]?> [Aerolínea: <?php echo $info["arrival_airline"]?> | Vuelo: <?php echo $info["arrival_flight"]?>]</span></div>
 					<?php } 
 					if ($info["type"] == "departure" || $info["type"] == "round trip") { ?>
-					<div><span class="label">Salida</span><span class="value"><?php echo $info["end"]?> <?php echo $info["departure_time"]?> [Aerolínea: <?php echo $info["departure_airline"]?> | Vuelo: <?php echo $info["departure_flight"]?>]</span></div>
+					<div><span class="label">Departure</span><span class="value"><?php echo $info["end"]?> <?php echo $info["departure_time"]?> [Aerolínea: <?php echo $info["departure_airline"]?> | Vuelo: <?php echo $info["departure_flight"]?>]</span></div>
 					<?php } ?>
-					<div><span class="label">Tipo de pago</span><span class="value"><?php echo $info["payment"]?></span></div>
+					<div><span class="label">Payment type</span><span class="value"><?php echo $info["payment"]?></span></div>
 				</fieldset>
 				<fieldset>
-					<legend>Información de contacto</legend>
-					<div><span class="label">Nombre</span><span class="value"><?php echo $info["name"]?></span></div>
-					<div><span class="label">Teléfono</span><span class="value">+52 <?php echo $info["phone"]?></span></div>
+					<legend>Contact Information</legend>
+					<div><span class="label">Name</span><span class="value"><?php echo $info["name"]?></span></div>
+					<div><span class="label">Phone</span><span class="value">+52 <?php echo $info["phone"]?></span></div>
 					<div><span class="label">Email</span><span style="text-transform: lowercase;" class="value"><?php echo $info["email"]?></span></div>
-					<div><span class="label">Dirección</span><span class="value"><?php echo $info["address"]?></span></div>
-					<div><span class="label">País</span><span class="value"><?php echo $info["country"]?></span></div>
-					<div><span class="label">Estado</span><span class="value"><?php echo $info["state"]?></span></div>
-					<div><span class="label">Ciudad</span><span class="value"><?php echo $info["city"]?></span></div>
-					<div><span class="label">Código Postal</span><span class="value"><?php echo $info["zip_code"]?></span></div>
+					<div><span class="label">Address</span><span class="value"><?php echo $info["address"]?></span></div>
+					<div><span class="label">Country</span><span class="value"><?php echo $info["country"]?></span></div>
+					<div><span class="label">State</span><span class="value"><?php echo $info["state"]?></span></div>
+					<div><span class="label">City</span><span class="value"><?php echo $info["city"]?></span></div>
+					<div><span class="label">Zip Code</span><span class="value"><?php echo $info["zip_code"]?></span></div>
 				</fieldset>
 			</div>
 			<div class="price">
-				<span class="label">Servicio <?php if($info["payment"] == "paypal") echo "Pagado por Paypal"; else echo "Por pagar";?></span>
+				<span class="label">Service <?php if($info["payment"] == "paypal") echo "Payed With PayPal"; else echo "For Pay";?></span>
 				<span class="amount value">$<?php echo $info["price"]?> <span class="currency">USD</span></span>
 			</div>
 		<?php endforeach ?>
 		<div>
-			<input style="width: 200px; margin-top: 30px; height: 30px;" onclick="imprimir()" id="imprimir" type="button" value="Imprimir Reservaci&oacute;n"/>
+			<input style="width: 200px; margin-top: 30px; height: 30px;" onclick="imprimir()" id="imprimir" type="button" value="Print Reservation"/>
 		</div>
 	</div>
 <?php require 'modules/footer.php'; ?>
